@@ -1,0 +1,53 @@
+Dica;
+Extensões do VS -> extras
+Bracket pair colors -> cores diferentes para chaves, colchetes, parênteses
+indent-rainbow 
+Dracula
+-----------------------------------------------
+Sintaxe básica da linguagem javascript (js)
+1); no final (não é obrigatório)
+2)conceito de sentenças (linha de código)
+3)conceito de bloco { }
+------------------------------------------------
+variáveis:
+Na linguagem js as variáveis são dinamicamente tipadas (tipo dependo do dado atribuído)
+let = criar uma variavel (js)
+const = cria uma constatante (js)
+
+Tipos de variáveis/constatantes
+-numéricas
+-string(caracteres)
+-booleano(verdadeiro ou falso)
+
+cd + pasta = entra na pasta 
+/** = comentar codigo 
+cls = limpar terminal
+console.clear (limpar a tela)
+console.(typeof()) = exibe a variavel
+
+------------------------------------------------------------
+
+Importante !!!
+Ao definir nomes para a constatantes e variáveis:
+- Não usar espaço
+- Não usar acentos e caracteres especiais
+- Iniciar com uka letra minúscula 
+- Definir nomes que estejam relacionados ao problema (código limpo)
+- Usar a técnica do camelo (camel case) para nomes de variáveis compostos
+Ex: nome cliente --> nomeCliente
+
+------------------------------------------------------
+Operadores aritméticos
+- São usados em operações aritméticos junto as constatantes/variáveis
+-------------------------------------------------------
+Operadores de Atribuição
+- Utilizados para atribuir um valor a uma variavel que ja possui um valor determinado.
+Ex: (+=|-=|*=|/=|++=|--=)
+--------------------------------------------------------
+Comparadores
+- Utilizados para fazer a comparação de valores entre variante, sendo seu tipo de resposta sempre booleano.
+Ex: (> | >= | < | <= | === | !==  )
+--------------------------------------------------------
+Operadores Lógicos
+- Operadores utilizados para a verificação, onde uma ação ira ocorrer caso usúario cumpra todos os requisitos ou algum deles
+Ex: (and / or) (&&/|| / !)
