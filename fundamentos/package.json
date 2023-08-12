@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Tutorial JavaScript com o uso do node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luizynhoo/nodejs.git"
+  },
+  "author": "Luiz Henrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luizynhoo/nodejs/issues"
+  },
+  "homepage": "https://github.com/Luizynhoo/nodejs#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
