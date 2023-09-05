@@ -1,0 +1,31 @@
+Mandamentos da progamação ("José de Assis)
+
+1° mandamentos
+Entender o problema
+
+2° mandamento
+Pensar primeiro na UX (experiência do usúario)
+
+3° mandamento
+Clean code (usar o mínimo de recursos possíveis)
+
+--------------------------------------------------
+
+Exercícios: Desenvolver no Scratch e no NodeJS um APP que
+informe qual é o combustível mais vantajoso (etanol x gasolina)
+para abastecer um carro flex
+
+//variáveis
+etanol, gasolina
+
+//entrada
+etanol, gasolina
+
+//processamento/saída
+se o preço do litro do etanol custar até 70% do preço da
+gasolina bastecer com etanol
+senão 
+abastecer com gasolina
+--------------------------------------------------
+
+    
