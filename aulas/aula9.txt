@@ -1,0 +1,25 @@
+pacotes/módulos = biblioteca (funcionalidade escrita em JS)
+
+npm (gerenciador de pacotes)
+|___package.json (principal arquivo de configuração)
+
+npm init (inicia um novo package_json)
+npm ls (listar os pacotes instalados)
+npm i ou npm install (instalar um novo pacote)
+
+-----------------------------------------------------------
+cd [enter] vai para a pasta (diretório)
+cd .. [enter] volta uma pasta
+------------------------------------------------------------
+Cores
+npm install colors
+-------------------------------------------------------------
+Estruturas de controle
+Condicionais
+if(condição) {
+    //condição verdadeira
+} else {
+    //condição falsa
+}
+
+obs: uma condição nunca pode ser verdadeira e falsa ao mesmo tempo
