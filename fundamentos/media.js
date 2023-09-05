@@ -5,6 +5,9 @@
 //importação do pacote readline-sync
 const read = require('readline-sync')
 
+//importação do pacote de cores
+const colors = require('colors')
+
 //variáveis
 let nome, disciplina
 let prova1, prova2, trabalho, redacao, media 
@@ -42,3 +45,9 @@ console.log(`trabalho: ${trabalho}`)
 console.log(`redacao: ${redacao}`)
 console.log(`média final: ${media}`)
 console.log("----------------------------------------")
+
+if(media < 5){
+    console.log("REPROVADO".red)
+}else {
+    console.log("APROVADO".green)
+}
