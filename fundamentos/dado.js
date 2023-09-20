@@ -6,7 +6,10 @@ const read = require ('readline-sync')
 const colors = require ('colors')
 
 let face
+let escolha = "s"
 
+
+do {
 console.clear()
 console.log("===============================================".cyan)
 console.log("=================JOGO DO DADO==================".cyan)
@@ -60,3 +63,5 @@ console.log("       |    |")
 console.log("       |_   |_")
         break
 }
+    escolha = read.question ("deseja jogar novamente (s/n)")
+} while(escolha === "s") 
