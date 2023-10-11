@@ -8,3 +8,12 @@ Ex:
 Leandro -> Sirlene | Robson ->  Robson(poupança)
 4 - Melhorar experiência do usuário
 5 - Criar um novo método para transfererir da conta corrente para a conta poupança
+
+
+
+perguntar qual conta ele quer o extrato 
+perguntar a quem deseja depositar
+quanto deseja depositar 
+perguntar extrato dnv
+
+
