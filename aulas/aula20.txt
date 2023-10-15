@@ -3,7 +3,7 @@ Agência Bancária
 Desafio:
 1 - Encapsular os atributos da classe Conta
 2 - Criar mais dois objetos (clientes Robson Vaamond e Sirlene Aparecida)
-3 - Criar um novo método para transferência de valores entre conta corrente e também entre contas correntes - poupança,
+3 - Criar um novo método para transferência de valores entre conta corrente e também entre conta corrente para poupança.
 Ex:
 Leandro -> Sirlene | Robson ->  Robson(poupança)
 4 - Melhorar experiência do usuário
@@ -11,9 +11,5 @@ Leandro -> Sirlene | Robson ->  Robson(poupança)
 
 
 
-perguntar qual conta ele quer o extrato 
-perguntar a quem deseja depositar
-quanto deseja depositar 
-perguntar extrato dnv
 
 
